@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_USERNAME/gitops-demo
+    repoURL: https://github.com/ja-lourenco/gitops-argocd-demo
     targetRevision: HEAD
     path: apps/nginx
   destination:
